@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using ZadanieNr._8.Context;
 using ZadanieNr._8.Models;
 
+
 namespace ZadanieNr._8.Controller;
 
 [Route("api/[controller]")]
@@ -92,4 +93,13 @@ public class DoctorsController : ControllerBase
     {
         return _context.Doctors.Any(e => e.IdDoctor == id);
     }
+
+    
+
+
 }
+    
+    
+
+
+

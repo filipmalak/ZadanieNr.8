@@ -148,3 +148,5 @@ C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\obj\Debug\net8.0\refint\Zad
 C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\obj\Debug\net8.0\ZadanieNr.8.pdb
 C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\obj\Debug\net8.0\ZadanieNr.8.genruntimeconfig.cache
 C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\obj\Debug\net8.0\ref\ZadanieNr.8.dll
+C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\obj\Debug\net8.0\ZadanieNr.8.sourcelink.json
+C:\Users\kmala\RiderProjects\ZadanieNr.8\ZadanieNr.8\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
